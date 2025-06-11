@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+/* Import the Inter font for broader use if not handled by Google Fonts link directly in App.js */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif; /* Set Inter as a fallback or primary body font */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* Add any other global or utility CSS here if needed,
+   though Tailwind handles most styling in this project. */
